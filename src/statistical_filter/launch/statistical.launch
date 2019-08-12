@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="statistical_filter" name="statistical_filter" type="statistical_filter_node" output="screen"/>
+</launch>

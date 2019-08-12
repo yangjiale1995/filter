@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pass_through" name="pass_through" type="pass_through_node" output="screen"/>
+</launch>
